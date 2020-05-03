@@ -40,7 +40,7 @@ namespace ConsultaCEP
             else
 
             {
-                MessageBox.Show("Informe um cep valido", this.Text, MessageBoxButtons.OK,MessageBoxIcon.Error);
+                MessageBox.Show("Informe um CEP valido", this.Text, MessageBoxButtons.OK,MessageBoxIcon.Error);
             }
         }
 
